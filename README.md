@@ -5,7 +5,7 @@ Scripts used to add HQ isoforms providing unique splice information
 ## TOGA
 TOGA (Tool to infer Orthologs from Genome Alignments) was used to provide high quality gene projections which we heavily relied upon in the Bat1K. 
 
-[The code](https://github.com/hillerlab/TOGA) can be found at the H [Hiller lab](https://www.mpi-cbg.de/research-groups/current-groups/michael-hiller/research-focus/) [github](https://github.com/hillerlab/)
+[The code](https://github.com/hillerlab/TOGA) can be found at the [Hiller lab](https://www.mpi-cbg.de/research-groups/current-groups/michael-hiller/research-focus/) [github](https://github.com/hillerlab/)
 
 ## Bat1K Utils.pm
 - Perl module with necessary subroutines
